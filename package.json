@@ -1,0 +1,25 @@
+{
+  "name": "on-every-corner",
+  "version": "1.0.0",
+  "description": "Find road intersections (aka taco truck locations) in OSM data.",
+  "main": "index.js",
+  "dependencies": {
+    "generatorics": "^1.0.7",
+    "geojson-utils": "^1.1.0",
+    "tile-reduce": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iandees/on-every-corner.git"
+  },
+  "author": "Ian Dees <ian.dees@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iandees/on-every-corner/issues"
+  },
+  "homepage": "https://github.com/iandees/on-every-corner#readme"
+}
